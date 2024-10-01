@@ -1,0 +1,164 @@
+* {
+  font-family: "Averia Serif Libre", serif;
+}
+body {
+  background-color: #f8f9fa;
+}
+
+h1,
+h2 {
+  color: #343a40;
+}
+span {
+  color: #16a34a;
+}
+.d-block {
+  height: 30px;
+  width: 84px;
+  /* max-height: 50px; */
+}
+
+button {
+  background-color: #16a34a;
+  color: white;
+}
+.card {
+  border: none;
+  margin-top: 20px;
+  width: 146px;
+  height: 158px;
+  border-radius: 20px;
+}
+.card-title {
+  color: #16a34a;
+}
+@media (width: 320px) {
+  .card {
+    margin-left: 28%;
+  }
+}
+@media (width: 375px) {
+  .card {
+    margin-left: 28%;
+  }
+}
+@media (width: 425px) {
+  .card {
+    margin-left: 28%;
+  }
+}
+@media (min-width: 768px) {
+  .card {
+    margin-left: 38%;
+  }
+}
+@media (min-width: 768px) {
+  .price p {
+    text-align: center;
+  }
+  .price button {
+    margin-left: 32%;
+  }
+}
+@media (min-width: 768px) {
+  .embed-responsive-item {
+    margin-top: 10%;
+  }
+}
+
+.accordion-button {
+  color: #007bff;
+}
+
+.accordion-body {
+  font-size: 0.95rem;
+}
+@media (max-width: 768px) {
+  .img-fluid1 {
+    max-width: 48px;
+    max-height: 48px;
+  }
+}
+@media (min-width: 768px) {
+  .img-fluid1 {
+    max-width: 320px;
+    max-height: 320px;
+  }
+}
+@media (width: 1024px) {
+  .img-fluid1 {
+    margin-left: 57px;
+  }
+}
+@media (width: 1024px) {
+  .btn2 {
+    margin-left: 25%;
+  }
+}
+@media (width: 1440px) {
+  .img-fluid1 {
+    margin-left: 25%;
+  }
+}
+@media (width: 1440px) {
+  .btn2 {
+    margin-left: 30%;
+  }
+}
+@media (width: 768px) {
+  .CareerGuidance {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .img-fluid2 {
+    width: 320px;
+    height: 320px;
+  }
+  .list-unstyled1 {
+    padding-left: 10%;
+  }
+}
+@media (min-width: 768px) {
+  .careerbtn {
+    margin-left: 22%;
+  }
+}
+@media (max-width: 425px) {
+  body {
+    text-align: justify;
+  }
+}
+@media (max-width: 375px) {
+  .btn1 {
+    margin-left: 15%;
+  }
+}
+@media (max-width: 425px) {
+  .embed-responsive-item {
+    padding: 20px;
+  }
+}
+@media (width: 425px) {
+  .embed-responsive-item {
+    padding-left: 40px;
+  }
+}
+@media (width: 425px) {
+  .btn1 {
+    margin-left: 75px;
+  }
+}
+@media (max-width: 1024px) {
+  .trainerdiv {
+    text-align: center;
+  }
+}
+.faq {
+  background-color: #16a34a;
+  height: 100%;
+  width: 100%;
+}
+.accordion-button:focus {
+  outline-style: none;
+}
